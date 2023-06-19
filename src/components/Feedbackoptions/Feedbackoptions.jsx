@@ -12,8 +12,6 @@ export const Feedbackoptions = ({ options, onLeaveFback }) => {
     </div>
     )
 }
-    
-
 
 Feedbackoptions.propTypes = {
     options: PropTypes.array.isRequired,
