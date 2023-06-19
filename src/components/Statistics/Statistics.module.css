@@ -1,0 +1,12 @@
+.text {
+    font-size: 24px;
+    font-weight: 300;
+}
+.text_Percentage {
+    font-size: 35px;
+    background-color: beige;
+    font-weight: 500;
+    height: 65px;
+    margin: 0px;
+    padding: 25px;
+}

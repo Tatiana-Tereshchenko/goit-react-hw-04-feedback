@@ -1,0 +1,18 @@
+.button_feedback {
+    width: 100px;
+    height: 75px;
+    border-radius: 10px;
+    border: solid 2px rgb(182, 244, 39);
+    padding: 10px;
+    font-size: 24px;
+    font-weight: 700;
+    background-color: rgb(245, 250, 233);
+    margin-top: 55px;
+}
+.button_feedback:not(:last-child) {
+    margin-right: 25px;
+}
+.button_feedback:hover,
+.button_feedback:focus {
+    box-shadow: 0 4px 6px rgba(6, 39, 12, 0.2);
+}
