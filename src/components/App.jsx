@@ -5,7 +5,7 @@ import { Section } from './Section/Section';
 import { Notification } from './Notification/Notification';
 
 
-export function App() {
+export const App = () => {
   const [feedback, setFeedback] = useState({
     good: 0,
     neutral: 0,
